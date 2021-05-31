@@ -1,0 +1,14 @@
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\bin\Debug\netcoreapp3.1\AutomationFramework.deps.json
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\bin\Debug\netcoreapp3.1\AutomationFramework.dll
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\bin\Debug\netcoreapp3.1\AutomationFramework.pdb
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.AssemblyInfoInputs.cache
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.AssemblyInfo.cs
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.csproj.CoreCompileInputs.cache
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.dll
+C:\Git\Git\Repo\RACGPCPDAWSTests\ui-tests\src\RACGP.CPD\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.pdb
